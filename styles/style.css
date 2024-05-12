@@ -180,7 +180,7 @@ h1 {
 }
 
 .background-image {
-  background-image: url("/images/Image1.png");
+  background-image: url("images/Image.jpeg");
   height: 750px;
   width: 100%;
   background-size: cover;
@@ -239,11 +239,11 @@ h1 {
 }
 
 .two {
-  background-image: url("/images/Text-media-new_wrapper\ \(1\).png ");
+  background-image: url("images/Text-media-new_wrapper\ \(1\).png ");
 }
 
 .three {
-  background-image: url("/images/image2.png");
+  background-image: url("images/image2.png");
 }
 
 .madeforyou-container {
